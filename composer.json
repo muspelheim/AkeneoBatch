@@ -28,7 +28,7 @@
         "bin-dir": "bin"
     },
     "autoload": {
-        "psr-4": { "Akeneo\\Component\\Batch\\": "" }
+        "psr-4": { "Akeneo\\Tool\\Component\\Batch\\": "" }
     },
     "minimum-stability": "stable",
     "extra": {
